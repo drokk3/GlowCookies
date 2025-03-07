@@ -41,6 +41,7 @@ Now you can choose between these available languages:
 - Catalan (`ca`)
 - Chinese Simple (`zh`)
 - Chinese Traditional (`zh_TW`)
+- Czech (`cs`)
 - Danish (`da`)
 - Dutch (`nl`)
 - English (`en`)
