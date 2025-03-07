@@ -485,7 +485,15 @@ class LanguagesGC {
         'acceptBtnText': 'Acceptar les Cookies',
         'rejectBtnText': 'Declinar',
         'manageText': 'Cookies'
-      }
+      },
+      cs: {
+        'bannerHeading': 'Používáme cookies',
+        'bannerDescription': 'K personalizaci obsahu a analýze návštěvnosti používáme vlastní cookies i cookies třetích stran.',
+        'bannerLinkText': 'Přečtěte si více o tom, jakým způsobem zpracováváme vaše údaje.',
+        'acceptBtnText': 'Přijmout cookies',
+        'rejectBtnText': 'Přijmout jen nezbytné',
+        'manageText': 'Nastavení cookies'
+      },
     }
   }
 
